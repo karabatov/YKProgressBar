@@ -2,6 +2,8 @@
 
 _YKProgressBar_ is a simple drop-in progress bar control with rounded edges all-_around_ (ha-ha). Just copy the files YKProgressBar.[hm] into your project and you're good to go.
 
+Set the `progress` property (0..1) on a _YKProgressBar_ instance to (duh) set the progress.
+
 ## Demo
 
 Here's a demo of _YKProgressBar_. The floating things on top are scrolled collection view cards.
