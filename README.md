@@ -1,6 +1,6 @@
 # YKProgressBar
 
-_YKProgressBar _is a simple drop-in progress bar control with rounded edges all-_around_ (ha-ha). Just copy the files YKProgressBar.[hm] into your project and you're good to go.
+_YKProgressBar_ is a simple drop-in progress bar control with rounded edges all-_around_ (ha-ha). Just copy the files YKProgressBar.[hm] into your project and you're good to go.
 
 ## Demo
 
