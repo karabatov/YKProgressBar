@@ -29,4 +29,4 @@ progressBar.frame = CGRectMake(0, 0, desiredWidth, desiredHeight);
 
 ## License
 
-The licence is MIT. See the included LICENSE.txt for more details.
+The license is MIT. See the included LICENSE.txt for more details.
